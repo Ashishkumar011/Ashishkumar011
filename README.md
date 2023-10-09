@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ashishkumar011
-- 👀 I’m interested in web developmentand coding.
+- 👋 Hi, I’m @Ashishkumar011 .
+- 👀 I’m interested in web development and coding.
 - 🌱 I’m currently learning frontend developement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
